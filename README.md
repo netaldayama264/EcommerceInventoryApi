@@ -1,4 +1,4 @@
-#E-Commerce Inventory API
+# E-Commerce Inventory API
 
 A robust RESTful API built with ASP.NET Core 8 and Entity Framework Core, demonstrating complex data relationships and LINQ querying capabilities.
 
